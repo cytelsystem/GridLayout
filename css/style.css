@@ -58,6 +58,7 @@ h3 {
 }
 
 .grid-four {
+  background-color: red;
   grid-column: 1/2;
   grid-row: 2/3;
 }
